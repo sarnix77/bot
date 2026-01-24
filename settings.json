@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "RamdanSMP.aternos.me", 
+    "ip": "RamdanSMP.aternos.me:34161", 
     "port": 34161,   
     "version": "1.21.1"   
   },
