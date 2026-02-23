@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": " BananaSMP23.aternos.me", 
+    "ip": "BananaSMP23.aternos.me", 
     "port": 60342,   
     "version": "1.12.1"   
   },
