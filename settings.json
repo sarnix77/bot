@@ -6,13 +6,13 @@
   },
 
   "server": {
-    "ip": "RamdanSMP.aternos.me", 
-    "port": 34161,   
+    "ip": " BananaSMP23.aternos.me", 
+    "port": 60342,   
     "version": "1.12.1"   
   },
 
   "position": {
-    "enabled": false,
+    "enabled": true,
     "x": 0,
     "y": 0,
     "z": 0
